@@ -12,3 +12,8 @@ Welcome to My City Coffee Map app repository! This iOS app utilizes MapKit to di
   - Star rating
  
  ## Screenshots
+ <p align="center">
+<img src="https://github.com/Louisii/MapApp/blob/main/readmeassets/IMG_4159.PNG" width="300" alt="app screenshot, map with cards with restaurant names and images">
+<img src="https://github.com/Louisii/MapApp/blob/main/readmeassets/IMG_4160.PNG" width="300" alt="app screenshot, map with cards with restaurant names and images">
+<img src="https://github.com/Louisii/MapApp/blob/main/readmeassets/IMG_4161.PNG" width="300" alt="app screenshot, map with cards with restaurant names and images">
+ </p>
